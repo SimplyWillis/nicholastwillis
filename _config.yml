@@ -1,7 +1,7 @@
 title: Nicholas T. Willis
 description: Researcher | Social Scientist | Political Scientist
-baseurl: ""
-url: https://simplywillis.github.io/nicholastwillis/
+baseurl: "/nicholastwillis"
+url: https://simplywillis.github.io
 
 theme: cvless
 
