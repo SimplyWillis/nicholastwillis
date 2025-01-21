@@ -1,51 +1,20 @@
+# Site settings
 title: Nicholas T. Willis
-description: Researcher | Social Scientist | Political Scientist
-baseurl: "/nicholastwillis"
-url: https://simplywillis.github.io
+description: None
+baseurl: "/nicholastwillis" # the subpath of your site, e.g. /blog
+url: "https://simplywillis.github.io"
 
-theme: cvless
+# User settings
+username: Nicholas T. Willis
+user_description: expertise description
+user_title: Researcher | Political Scientist | Social Scientist
+email: ntwillis15@gmail.com
+#twitter_username: lorem_ipsum
+github_username:  SimplyWillis
+#gplus_username:  lorem_ipsum
 
-# site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+# Google-analytics
+google-analytics:
+  id: ""
 
-# author settings
-author:
-  name: Place Holder
-  email: username@domain.com
-photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
-
-# profile links
-profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
-
-# build settings
-permalink: pretty
-exclude:
-  - LICENSE
-  - README.md
-  - Gemfile
-  - vendor/
-  - docker-compose.yml
-
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-sass:
-  sourcemap: never
-  
+exclude: ['package.json', 'src' , 'node_modules']
