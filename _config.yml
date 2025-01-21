@@ -1,6 +1,6 @@
 # Site settings
 title: Nicholas T. Willis
-description: None
+description: "Nicholas T. Willis (PhD) is a data scientist with a specialization in  political research. He is experienced in the application of quantitative (R, Stata), qualitative, and mixed methods research. His research interests include: populism, voting behavior, and political parties, with a substantive focus on Western Europe."
 baseurl: "/nicholastwillis" # the subpath of your site, e.g. /blog
 url: "https://simplywillis.github.io"
 
